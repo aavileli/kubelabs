@@ -37,6 +37,10 @@
 - [Accessing Kubernetes API](./api.md) 
 
 
+## Minikube101
+
+- [What is minikube?](./Minikube101/what-is-minikube.md)
+
 ## Pods101
 
  - [Introductory Slides](https://collabnix.github.io/kubelabs/Pods101_slides/Pods101.html) 
@@ -140,7 +144,7 @@
   - The Kubernetes Service 
      - Catalog Resources
      - Catalog components
-  - Creating a sample Service Catalog
+  - [Creating a sample Service Catalog](./ServiceCatalog101/Create-Service-Catalog.md)
   - [Installing Service Catalog Helm Chart](./ServiceCatalog101/Install-Service-Catalog-Helm.md)
    - Installing minibroker
  - Viewing the classes and plans for the Service Broker
@@ -192,6 +196,12 @@
  - [Changes To Watch For](./Monitoring101/README.md/#Changes-To-Watch-For)
    - [Heapster is Going Away](./Monitoring101/README.md/#Heapster-is-going-away)
    - [Metrics Server Will Get More Cool Features](./Monitoring101/README.md/#Metrics-Server-Will-Get-More-Cool-Features)
+
+## Helm101
+
+- [What is Helm?](./Helm101/what-is-helm.md)
+- [Installing a Helm Chart](./Helm101/installing-a-chart.md)
+- [Helm Charts](./Helm101/helm-charts.md)
 
 # Contributors
 
